@@ -1,5 +1,15 @@
+# Crackman - Juego inspirado en Pacman
+
+
+
+## Descripción del Proyecto
+
+Bienvenido al repositorio de Crackman, un juego de escritorio desarrollado en C# durante mi instancia universitaria. Crackman está inspirado en el legendario Pacman y ofrece funcionalidad multijugador y tres niveles de dificultad progresiva.
+
+## Instrucciones de Uso
+
 > [!NOTE]
-> Este repositorio contiene una aplicación de escritorio desarrollada en C# para gestionar el control de personal mediante una base de datos. Aquí se detallan los aspectos importantes del proyecto.
+> Este repositorio contiene una aplicación de escritorio desarrollada en C# para jugar Crackman. Aquí se detallan los aspectos importantes del proyecto.
 
 > [!TIP]
 > Para ejecutar la aplicación localmente:
@@ -8,9 +18,24 @@
 >3. Configura la conexión a la base de datos según sea necesario.
 >4. Compila y ejecuta la aplicación.
 
+## Características Principales
+
+- **Modo Multijugador:** Juega con amigos en línea.
+- **Tres Niveles de Dificultad:** Aumenta la dificultad a medida que avanzas.
+- **Diseño Inspirado en Pacman:** Basado en el clásico juego Pacman.
 
 > [!IMPORTANT]
-> La aplicación está diseñada para gestionar eficientemente el control del personal utilizando C# y una base de datos para el almacenamiento de datos.
+> Crackman está diseñado para ser un juego divertido y desafiante que captura la esencia del Pacman original.
 
->[!CAUTION]
->Asegúrate de tener los permisos adecuados antes de realizar cambios significativos en el código base.
+> [!CAUTION]
+> Asegúrate de tener los permisos adecuados antes de realizar cambios significativos en el código base.
+
+## Contribución
+
+¡Contribuciones al código son bienvenidas! Antes de hacer cambios importantes, asegúrate de tener los permisos adecuados y sigue las mejores prácticas de desarrollo.
+
+
+
+## Contacto
+
+Para preguntas o sugerencias relacionadas con Crackman, contáctame a través de [rafael.moreno.espinoza@gmail.com](rafael.moreno.espinoza10@gmail.com).
